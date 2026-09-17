@@ -54,3 +54,9 @@ Déployer des modèles multilingues (tels que xlm-roberta-baseou flaubert) pour 
 Calibrer le seuil de décision probabiliste sur QQP au lieu de conserver un simple seuil standard à 0.5, afin de moduler le compromis précision/rappel selon les besoins de l'application métier.
 
 Réaliser un affinement supervisé ( fine-tuning ) des têtes de classification sur des données annotées propres au domaine cible pour fiabiliser la détection sur du vocabulaire spécialisé.
+
+
+
+
+https://github.com/user-attachments/assets/462d1217-8982-4ce3-9ef2-ccc81a4046d7
+
